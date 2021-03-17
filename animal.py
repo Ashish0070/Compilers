@@ -7,9 +7,10 @@ def cat():
     print('Meow')
 
 def dog():
-    print('woof')
+    print('Woof')
 
 def main():
+
     if sys.argv[1] == 'cat':
         cat()
 
