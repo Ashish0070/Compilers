@@ -1,0 +1,1 @@
+_statisticsinputparameterlist[intc2dbc,intd7,intb2d567]outputparameterlist[reald2,realc3bcd];typereal:c3:global;c3<---3;d2<---(c2dbc+d7+b2d567)/c3;c3bcd<---d2*3.23;return[d2,c3bcd];end
